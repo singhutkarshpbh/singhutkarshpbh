@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utkarsh-singh-7408b6251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-singh-7408b6251/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/codeeutkarsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codeeutkarsh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/coddeutkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coddeutkarsh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/singhutkarsh35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codeeutkarsh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/terminator199230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coddeutkarsh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/singhutkarshpbh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/singhutkarshpbh/" height="30" width="40" /></a>
 </p>
 
